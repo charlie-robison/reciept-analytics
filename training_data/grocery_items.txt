@@ -325,3 +325,38 @@ Frozen potstickers
 Frozen pie crust
 Frozen pie filling
 Frozen pie
+Walmart
+Target
+Kroger
+Costco
+Publix
+Safeway
+Aldi
+Trader Joe's
+Whole Foods Market
+H-E-B
+Meijer
+Giant Eagle
+Wegmans
+WinCo Foods
+Hy-Vee
+Stop & Shop
+Ralphs
+Albertsons
+ShopRite
+Food Lion
+Harris Teeter
+Fry's Food Stores
+Vons
+Piggly Wiggly
+Market Basket
+Giant Food
+Sprouts Farmers Market
+Fred Meyer
+Ingles
+Bashas'
+Stater Bros. Markets
+Weis Markets
+Smart & Final
+Winn-Dixie
+Food 4 Less
