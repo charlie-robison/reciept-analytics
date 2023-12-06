@@ -1,0 +1,327 @@
+Milk
+Bread
+Eggs
+Bananas
+Chicken breasts
+Tomatoes
+Potatoes
+Apples
+Butter
+Cheese
+Pasta
+Rice
+Ground beef
+Onions
+Carrots
+Lettuce
+Oranges
+Coffee
+Tea bags
+Sugar
+Flour
+Cereal
+Yogurt
+Frozen peas
+Salmon fillets
+Cucumber
+Bell peppers
+Olive oil
+Ketchup
+Mayonnaise
+Mustard
+Salad dressing
+Spaghetti sauce
+Toilet paper
+Paper towels
+Laundry detergent
+Dish soap
+Garbage bags
+Aluminum foil
+Ziploc bags
+Shampoo
+Conditioner
+Toothpaste
+Toothbrush
+Floss
+Deodorant
+Hand soap
+Facial tissues
+Baby wipes
+Diapers
+Baby formula
+Baby food jars
+Cat food
+Dog food
+Bleach
+Sponges
+Dishwasher detergent
+All-purpose cleaner
+Napkins
+Canned soup
+Peanut butter
+Jelly
+Bacon
+Sausages
+Oatmeal
+Honey
+Maple syrup
+Canned beans
+Chips
+Salsa
+Sour cream
+Ice cream
+Cookies
+Chocolate bars
+Candles
+Light bulbs
+Batteries
+Duct tape
+Garlic
+Ginger
+Limes
+Avocados
+Salsa
+Cottage cheese
+Margarine
+Bagels
+Waffles
+Pancake mix
+Syrup
+Pickles
+Olives
+Salami
+Tuna
+Crackers
+Sparkling water
+Soda
+Juice
+Canned tomatoes
+Tortilla chips
+Cream cheese
+Hummus
+Baby spinach
+Almonds
+Cashews
+Raisins
+Canned corn
+Canned peas
+Granola bars
+Soup crackers
+Cheddar cheese
+Parmesan cheese
+Sour cream
+Tofu
+Hamburger buns
+Hot dog buns
+Sliced ham
+Frozen pizza
+Microwave popcorn
+Ground turkey
+Cottage cheese
+Mushrooms
+Soy sauce
+Cranberry sauce
+Green beans
+Garbanzo beans
+Sesame oil
+Baby carrots
+Baby spinach
+Raspberries
+Blueberries
+Strawberries
+Vanilla extract
+Ground cinnamon
+Cocoa powder
+Quinoa
+Honeydew melon
+Cantaloupe
+Watermelon
+Orange juice
+Apple juice
+Grape juice
+Balsamic vinegar
+Red wine vinegar
+White vinegar
+Baking powder
+Baking soda
+Chocolate chips
+Brown sugar
+Powdered sugar
+Oregano
+Basil
+Thyme
+Rosemary
+Parsley
+Cumin
+Curry powder
+Black pepper
+Ground cayenne pepper
+Paprika
+Garlic powder
+Onion powder
+Chili powder
+Ground nutmeg
+Ground cloves
+Ground ginger
+Cinnamon sticks
+Dried bay leaves
+Vanilla beans
+Barbecue sauce
+Worcestershire sauce
+Hot sauce
+Ramen noodles
+Soy sauce
+Teriyaki sauce
+Sweet and sour sauce
+Dried cranberries
+Dried apricots
+Dried mango
+Dried pineapple
+Trail mix
+Popcorn kernels
+Canned black beans
+Canned kidney beans
+Canned chickpeas
+Instant coffee
+Ground coffee beans
+Whole bean coffee
+Taco seasoning
+Fajita seasoning
+Canned green chilies
+Tortillas
+Sour cream
+Pico de gallo
+Shredded lettuce
+Shredded cheese
+Salsa verde
+Cilantro
+Lemonade
+Iced tea
+Chai tea
+Coconut milk
+Almond milk
+Cashew milk
+Ranch dressing
+Blue cheese dressing
+French dressing
+Italian dressing
+Coleslaw dressing
+Bar soap
+Body wash
+Hand lotion
+Sunscreen
+Lip balm
+Trash bags
+Aluminum foil
+Plastic wrap
+Parchment paper
+Freezer bags
+Sandwich bags
+Graham crackers
+Marshmallows
+Chocolate bars
+Creamer
+Energy drinks
+Sports drinks
+Seltzer water
+Flavored water
+Hamburger patties
+Hot dogs
+Canned pineapple
+Canned peaches
+Canned pears
+Canned mandarin oranges
+Instant noodles
+Soy sauce
+Teriyaki sauce
+Sweet and sour sauce
+Dried cranberries
+Dried apricots
+Dried mango
+Dried pineapple
+Trail mix
+Popcorn kernels
+Canned black beans
+Canned kidney beans
+Canned chickpeas
+Instant coffee
+Ground coffee beans
+Whole bean coffee
+Taco seasoning
+Fajita seasoning
+Canned green chilies
+Tortillas
+Sour cream
+Pico de gallo
+Shredded lettuce
+Shredded cheese
+Salsa verde
+Cilantro
+Lemonade
+Iced tea
+Chai tea
+Coconut water
+Flavored yogurt
+Greek yogurt
+Protein bars
+Protein powder
+Granola
+Elderberry syrup
+Multivitamins
+Omega-3 supplements
+Probiotics
+Prenatal vitamins
+Cold medicine
+Cough drops
+Bandages
+Hydrogen peroxide
+Cotton balls
+Antibacterial ointment
+Pain relievers
+Allergy medication
+Feminine hygiene products
+Condoms
+Pregnancy tests
+Facial cleanser
+Toner
+Moisturizer
+Acne treatment
+Razors
+Shaving cream
+Tooth whitening kit
+Dental floss picks
+Sponges
+Dish scrubbers
+Kitchen towels
+Potato chips
+Tortilla chips
+Pretzels
+Jerky
+Trail mix
+Raisins
+Dried cranberries
+Dried apricots
+Granola bars
+Protein bars
+Cookies
+Candy bars
+Chewing gum
+Mints
+Frozen fries
+Frozen chicken nuggets
+Frozen pizza rolls
+Frozen vegetables
+Frozen fruit
+Ice cream
+Frozen yogurt
+Frozen waffles
+Frozen pancakes
+Frozen burritos
+Frozen dinners
+Frozen seafood
+Frozen appetizers
+Frozen taquitos
+Frozen potstickers
+Frozen pie crust
+Frozen pie filling
+Frozen pie
