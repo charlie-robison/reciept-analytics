@@ -1,0 +1,49 @@
+Hamburger
+Cheeseburger
+Chicken Nuggets
+French Fries
+Onion Rings
+Hot Dog
+Pizza
+Taco
+Burrito
+Chicken Sandwich
+Fish and Chips
+Chicken Tenders
+Mozzarella Sticks
+Chili Cheese Fries
+Soft Pretzel
+Buffalo Wings
+Corn Dog
+Donut
+Ice Cream Cone
+Milkshake
+Soda
+Chicken Wrap
+Loaded Nachos
+Garlic Bread
+Poutine
+Fried Chicken
+Bacon Cheese Fries
+Chicken Quesadilla
+Churro
+Nachos Supreme
+Shrimp Po' Boy
+Fried Pickles
+Jalapeño Poppers
+Gyro
+Fried Rice
+Egg Roll
+Dumplings
+Spring Rolls
+Pad Thai
+Sushi Roll
+Banh Mi
+Pho
+Ramen
+Gyudon
+Fish Taco
+Grilled Cheese
+BLT
+Club Sandwich
+Submarine Sandwich

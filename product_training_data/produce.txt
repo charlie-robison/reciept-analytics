@@ -1,0 +1,50 @@
+Apples
+Bananas
+Carrots
+Spinach
+Tomatoes
+Bell Peppers
+Broccoli
+Strawberries
+Oranges
+Lettuce
+Grapes
+Cucumbers
+Mushrooms
+Zucchini
+Watermelon
+Blueberries
+Potatoes
+Avocado
+Pineapple
+Green Beans
+Onions
+Cauliflower
+Celery
+Cantaloupe
+Kale
+Pears
+Cherries
+Peaches
+Plums
+Asparagus
+Artichokes
+Raspberries
+Cabbage
+Eggplant
+Cilantro
+Garlic
+Ginger
+Pumpkin
+Sweet Potatoes
+Radishes
+Limes
+Cranberries
+Apricots
+Beets
+Brussels Sprouts
+Mangoes
+Pomegranates
+Papaya
+Kiwi
+Passion Fruit

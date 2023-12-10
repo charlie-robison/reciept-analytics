@@ -1,0 +1,52 @@
+Refrigerator
+Oven
+Stove
+Microwave
+Dishwasher
+Washing Machine
+Dryer
+Air Conditioner
+Heater
+Coffee Maker
+Blender
+Toaster
+Food Processor
+Stand Mixer
+Juicer
+Rice Cooker
+Slow Cooker
+Instant Pot
+Electric Kettle
+Vacuum Cleaner
+Iron
+Hair Dryer
+Curling Iron
+Straightener
+Air Purifier
+Humidifier
+Toaster Oven
+Grill
+Electric Fan
+Deep Fryer
+Bread Maker
+Hand Mixer
+Ice Cream Maker
+Espresso Machine
+Soda Stream
+Popcorn Maker
+Waffle Maker
+Electric Can Opener
+Electric Knife
+Sous Vide Machine
+Garbage Disposal
+Water Heater
+Water Dispenser
+Drip Coffee Maker
+French Press
+Electric Skillet
+Food Dehydrator
+Electric Griddle
+Toaster Oven Air Fryer
+Electric Wine Opener
+Handheld Vacuum Cleaner
+Robot Vacuum

@@ -1,0 +1,48 @@
+Milk
+Eggs
+Cheese
+Butter
+Yogurt
+Cream
+Cottage Cheese
+Sour Cream
+Whipped Cream
+Mozzarella
+Feta Cheese
+Cheddar Cheese
+Parmesan Cheese
+Provolone Cheese
+Brie
+Gouda
+Ricotta
+Goat Cheese
+Havarti
+Blue Cheese
+Swiss Cheese
+Monterey Jack
+Cream Cheese
+Colby Jack
+String Cheese
+Muenster Cheese
+Pepper Jack
+Mascarpone
+Camembert
+Gruyere
+Fontina
+Edam
+Gorgonzola
+Limburger
+Quark
+Roquefort
+Creme Fraiche
+Queso Fresco
+Queso Blanco
+Manchego
+Stilton
+Jarlsberg
+Emmental
+Rokpol
+Danish Blue
+Humboldt Fog
+Appenzeller
+Beemster

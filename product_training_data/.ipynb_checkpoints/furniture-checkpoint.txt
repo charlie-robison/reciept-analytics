@@ -1,0 +1,53 @@
+Sofa
+Bed
+Dining Table
+Coffee Table
+Bookshelf
+Dresser
+Nightstand
+Wardrobe
+TV Stand
+Sectional Sofa
+Accent Chair
+End Table
+Console Table
+Chest of Drawers
+Futon
+Ottoman
+Rocking Chair
+Recliner
+Bar Stools
+Bench
+Desk
+Office Chair
+Computer Desk
+File Cabinet
+Shelving Unit
+Credenza
+Dining Chairs
+Kitchen Island
+Bar Cart
+Sideboard
+Hutch
+Buffet
+Cabinet
+Wine Rack
+Vanity Table
+Mirror
+Coat Rack
+Hall Tree
+Entryway Bench
+Storage Bench
+Shoe Rack
+Cubby Organizer
+Pouf
+Bean Bag Chair
+Floor Lamp
+Table Lamp
+Desk Lamp
+Chandelier
+Pendant Light
+Wall Sconce
+Ceiling Fan
+Area Rug
+Throw Blanket
