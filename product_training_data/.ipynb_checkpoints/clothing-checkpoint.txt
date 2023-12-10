@@ -37,11 +37,6 @@ Robes
 Sweatpants
 Ties
 Scarves
-Hats
-Gloves
-Belts
-Sunglasses
-Watches
 Shoes
 Boots
 Sandals
@@ -50,7 +45,5 @@ Flats
 Sneakers
 Loafers
 Slippers
-Espadrilles
-Oxfords
 Flip Flops
 Ankle Boots
